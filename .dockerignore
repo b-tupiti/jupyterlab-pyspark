@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+*.bat
+*.md
+Dockerfile
+

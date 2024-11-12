@@ -1,0 +1,7 @@
+
+*.bat
+
+# local notebook + data
+*.log
+*.ipynb
+
